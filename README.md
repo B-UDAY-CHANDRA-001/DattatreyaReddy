@@ -28,5 +28,4 @@ I'm DattatreyReddy.
 ![GitHub User's stars](https://img.shields.io/github/stars/DattatreyaReddy?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 ![DattatreyaReddy's github stats](https://github-readme-stats.vercel.app/api?username=DattatreyaReddy&show_icons=true&theme=flag-india)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DattatreyaReddy&layout=compact&show_icons=true&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
