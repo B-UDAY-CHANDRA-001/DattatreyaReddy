@@ -17,15 +17,21 @@ Here are some ideas to get you started:
 
 I'm DattatreyReddy.
 
-- 🔭 I'm a Deeplearning Practitioner, 
-- 🌱 I’m currently pursuing my B.Tech Degree (Computer Science Engineering) in INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, TIRUCHIRAPPALLI, 
+- 🔭 I'm currently learning Deeplearning (Just started 😁), 
+- 🌱 I’m currently pursuing my B.Tech Degree (Computer Science Engineering) at INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, TIRUCHIRAPPALLI, 
 - 😄 Pronouns: He/Him
-- 📫 How to reach me: [E-Mail](mailto:dattatreyareddypanta2001@gmail.com) and [keybase](https://keybase.io/padya)
+- 📫 How to reach me: 
+    - <a href="mailto:dattatreyareddypanta2001@gmail.com"><img width=18px height=18px src="icons/mail.png" alt="E-mail"> : dattatreyareddypanta2001@gmail.com </a> 
+    - <a href="https://keybase.io/padya"><img width=18px height=18px src="icons/keybase.png" alt="Keybase"> : padya</a>
+- 💬 Ping me on 
+    - <a href="https://www.linkedin.com/in/dattatreyareddy-panta-944028"><img width=18px height=18px src="icons/linkedin.png" alt="LinkedIn"> : DattatreyaReddy Panta</a>
+    - <a href="https://www.linkedin.com/in/dattatreyareddy-panta-944028"><img width=18px height=18px src="icons/twitter.png" alt="Twitter"> : @padya1201</a>
+
 - ⚡ Wanna touch me, Then try it 😇😈
 
-![Counter](https://visitor-badge.glitch.me/badge?page_id=dattatreyareddy.visitor-badge)
-![GitHub followers](https://img.shields.io/github/followers/DattatreyaReddy?label=Followers&style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/DattatreyaReddy?affiliations=OWNER%2CCOLLABORATOR&style=social)
-
-![DattatreyaReddy's github stats](https://github-readme-stats.vercel.app/api?username=DattatreyaReddy&show_icons=true&theme=flag-india)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DattatreyaReddy&layout=compact&show_icons=true&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
+<div align = "left">
+<img src="https://img.shields.io/github/followers/DattatreyaReddy?label=Followers&style=social" alt= "GitHub Followers">
+<img src="https://img.shields.io/github/stars/DattatreyaReddy?affiliations=OWNER%2CCOLLABORATOR&style=social" alt = "GitHub User's stars"></br>
+<img src="https://github-readme-stats.vercel.app/api?username=DattatreyaReddy&show_icons=true&theme=flag-india" alt = "DattatreyaReddy's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DattatreyaReddy&layout=compact&show_icons=true&theme=flag-india" alt = "Most used Languages">
+</div>
